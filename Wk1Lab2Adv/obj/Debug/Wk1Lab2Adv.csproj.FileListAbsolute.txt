@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\obj\Debug\Wk1Lab2Adv.csprojResolveAssemblyReference.cache
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\obj\Debug\Wk1Lab2Adv.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\bin\Debug\Wk1Lab2Adv.exe.config
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\bin\Debug\Wk1Lab2Adv.exe
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\bin\Debug\Wk1Lab2Adv.pdb
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\obj\Debug\Wk1Lab2Adv.exe
+C:\Users\Tim\source\repos\Wk1Lab2Adv\Wk1Lab2Adv\obj\Debug\Wk1Lab2Adv.pdb
